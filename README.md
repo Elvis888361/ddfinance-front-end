@@ -1,4 +1,4 @@
-# Angular Project Setup Guide
+# Setup Guide
 
 This guide explains how to set up and run the Angular project locally. Follow the steps below to get started.
 
